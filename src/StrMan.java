@@ -3,7 +3,7 @@ public class StrMan {
     public static String strRepalcerMark(String originText,String what,String with)
     {		return originText.replaceAll("["+what+"]", with).trim();
     }
-
+//----------------------------------------------------------------------------------------------------------------------
     public static boolean isValidFilename(String fileName)
     {final char[] badChars = { '/', '\n', '\r', '\t', '\0', '\f', '`', '?', '*', '\\', '<', '>', '|', '\"', ':' };
         if (fileName==null ||  fileName.isEmpty()|| fileName.charAt(0)==' ')
@@ -14,4 +14,5 @@ public class StrMan {
                     return false;
         return true;
     }
-}
+//----------------------------------------------------------------------------------------------------------------------
+}//End of class

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="193149aa-b6a7-4e90-98bc-788ed79e2656" name="Default Changelist" comment="" />
+    <list default="true" id="193149aa-b6a7-4e90-98bc-788ed79e2656" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/StrMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StrMan.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +80,34 @@
       <option name="presentableId" value="Default" />
       <updated>1571039431301</updated>
       <workItem from="1571039435054" duration="311000" />
+      <workItem from="1571041551345" duration="267000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding two Method strReplaceMark and isValidFilename respectively.">
+      <created>1571041721741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571041721741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding two Method strReplaceMark and isValidFilename respectively." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding two Method strReplaceMark and isValidFilename respectively." />
   </component>
 </project>
